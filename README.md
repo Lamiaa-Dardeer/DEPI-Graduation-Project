@@ -12,16 +12,19 @@ Data Cleaning
 Data Modeling & Calculations
 
 •	Established relationships between tables to build a structured data model.
+
 •	Developed DAX measures for key metrics, including event counts, averages, and year-over-year (YOY) comparisons.
 
 Visualization
 
 •	Designed visuals to highlight trends, patterns, and key metrics.
+
 •	Emphasized outliers and anomalies for deeper insights.
 
 Distribution & Automation
 
 •	Published reports on Power BI Online for accessibility.
+
 •	Automated data refresh schedules to maintain up-to-date insights.
 
 Project Objectives
@@ -36,10 +39,17 @@ This project focuses on achieving the following:
 Key Features
 
 •	Interactive Dashboard: Explore trends, anomalies, and critical outage events.
+
 •	Comprehensive Data Cleaning: Address missing values and unstructured data for reliable insights.Comprehensive Data Cleaning: Address missing values and unstructured data for reliable insights.
+
 •	Trend Analysis: Provide YOY metrics, rolling averages, and seasonal insights.
+
 •	Event Categorization: Classify outages by type (e.g., weather-related, operational).
+
 •	Outlier Detection: Identify extreme events using Six Sigma analysis.
+
 •	Impact Metrics: Calculate customer impacts, demand loss, and outage durations.
+
 •	Actionable Insights: Offer strategic recommendations for enhanced grid resilience and communication.
+
 
