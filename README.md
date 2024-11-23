@@ -1,6 +1,7 @@
 ## U.S. Power Grid Outage Analysis (2002-2023)
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMDlhYjg4MTEtNGE5Mi00ZDNjLWJiYzUtZjA2NGZmNmVhNTFmIiwidCI6IjA3NTQwNmZlLWYzMGMtNGM5NC05ZjQzLWU2M2ViMzY5NzZiNiIsImMiOjh9&disablecdnExpiration=1730122704
+### Dashboard Link: http://surl.li/axiwvu
+
 
 ## Problem Statement
 
